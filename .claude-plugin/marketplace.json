@@ -1,0 +1,17 @@
+{
+  "name": "socrates-skill",
+  "owner": { "name": "SkylakeXx" },
+  "metadata": {
+    "description": "Socratic tutoring skill based on Vivienne Ming's SOCRATES research",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "socrates",
+      "description": "Context-and-questions-only mode: withholds direct answers and asks questions that keep your reasoning active",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/socrates"]
+    }
+  ]
+}
