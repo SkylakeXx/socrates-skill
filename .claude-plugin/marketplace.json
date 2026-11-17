@@ -9,9 +9,7 @@
     {
       "name": "socrates",
       "description": "Context-and-questions-only mode: withholds direct answers and asks questions that keep your reasoning active",
-      "source": "./",
-      "strict": false,
-      "skills": ["./skills/socrates"]
+      "source": "./"
     }
   ]
 }

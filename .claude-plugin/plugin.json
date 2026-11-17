@@ -1,0 +1,10 @@
+{
+  "name": "socrates",
+  "version": "1.0.0",
+  "description": "Context-and-questions-only mode: withholds direct answers and asks questions that keep your reasoning active. Based on Vivienne Ming's SOCRATES research.",
+  "author": { "name": "SkylakeXx", "url": "https://github.com/SkylakeXx" },
+  "homepage": "https://github.com/SkylakeXx/socrates-skill",
+  "repository": "https://github.com/SkylakeXx/socrates-skill",
+  "license": "MIT",
+  "keywords": ["socratic-method", "education", "learning", "critical-thinking", "tutoring"]
+}
